@@ -10,25 +10,29 @@
 
     <context:property-placeholder location="classpath:musicPlayer.properties"/>
 
-    <bean id="musicBeanClassic"
-          class="ru.pavlov.springcourse.ClassicalMusic">
+    <bean id="musicBean"
+          class="ru.pavlov.springcourse.ClassicalMusic"
+
+          scope="singleton"
+          init-method="doMyInitMethod"
+          destroy-method="doMyDestroyMethod">
     </bean>
 
-    <bean id="musicBeanRock"
+<!--    <bean id="musicBeanRock"
           class="ru.pavlov.springcourse.RockMusic">
     </bean>
 
     <bean id="musicBeanPop"
           class="ru.pavlov.springcourse.PopMusic">
-    </bean>
+    </bean>-->
 
-    <bean id="musicPlayer"
+<!--    <bean id="musicPlayer"
           class="ru.pavlov.springcourse.MusicPlayer"
           scope="prototype">
         <property name="music" ref="musicBeanRock"/>
         <property name="name" value="${musicPlayer.name}"/>
         <property name="volume" value="${musicPlayer.volume}"/>
-    </bean>
+    </bean>-->
 
 </beans>
 
