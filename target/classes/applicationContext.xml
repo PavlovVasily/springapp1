@@ -12,10 +12,9 @@
 
     <bean id="musicBean"
           class="ru.pavlov.springcourse.ClassicalMusic"
-
-          scope="singleton"
           init-method="doMyInitMethod"
-          destroy-method="doMyDestroyMethod">
+          destroy-method="doMyDestroyMethod"
+          factory-method="getClassicalMusic">
     </bean>
 
 <!--    <bean id="musicBeanRock"
