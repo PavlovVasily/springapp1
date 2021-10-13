@@ -8,30 +8,15 @@
         http://www.springframework.org/schema/context/spring-context.xsd">
 
 
-    <context:property-placeholder location="classpath:musicPlayer.properties"/>
+   <!-- <context:property-placeholder location="classpath:musicPlayer.properties"/>-->
 
     <bean id="musicBean"
-          class="ru.pavlov.springcourse.ClassicalMusic"
-          init-method="doMyInitMethod"
-          destroy-method="doMyDestroyMethod"
-          factory-method="getClassicalMusic">
-    </bean>
-
-<!--    <bean id="musicBeanRock"
           class="ru.pavlov.springcourse.RockMusic">
+<!--          init-method="doMyInitMethod"
+          destroy-method="doMyDestroyMethod"
+          factory-method="getClassicalMusic"-->
     </bean>
 
-    <bean id="musicBeanPop"
-          class="ru.pavlov.springcourse.PopMusic">
-    </bean>-->
-
-<!--    <bean id="musicPlayer"
-          class="ru.pavlov.springcourse.MusicPlayer"
-          scope="prototype">
-        <property name="music" ref="musicBeanRock"/>
-        <property name="name" value="${musicPlayer.name}"/>
-        <property name="volume" value="${musicPlayer.volume}"/>
-    </bean>-->
 
 </beans>
 
