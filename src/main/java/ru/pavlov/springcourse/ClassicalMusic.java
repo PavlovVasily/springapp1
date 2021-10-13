@@ -5,6 +5,7 @@ public class ClassicalMusic implements Music {
 
     public static ClassicalMusic getClassicalMusic(){
         return new ClassicalMusic();
+
     }
 
     public void doMyInitMethod(){
