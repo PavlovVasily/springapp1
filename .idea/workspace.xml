@@ -4,17 +4,12 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef3175e9-54d6-4aea-bf7b-d102d68a9003" name="Default Changelist" comment="lesson10_begin">
-      <change beforePath="$PROJECT_DIR$/.idea/compiler.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/compiler.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/encodings.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/encodings.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/.idea/workspace.xml" beforeDir="false" afterPath="$PROJECT_DIR$/.idea/workspace.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/pom.xml" beforeDir="false" afterPath="$PROJECT_DIR$/pom.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/ClassicalMusic.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/ClassicalMusic.java" afterDir="false" />
+    <list default="true" id="ef3175e9-54d6-4aea-bf7b-d102d68a9003" name="Default Changelist" comment="lesson11_doneHomework">
       <change beforePath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/MusicPlayer.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/MusicPlayer.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/TestSpring.java" afterDir="false" />
       <change beforePath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" afterDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/META-INF/springapp1.kotlin_module" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/applicationContext.xml" beforeDir="false" />
-      <change beforePath="$PROJECT_DIR$/target/classes/musicPlayer.properties" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/pavlov/springcourse/MusicPlayer.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/pavlov/springcourse/MusicPlayer.class" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/target/classes/ru/pavlov/springcourse/TestSpring.class" beforeDir="false" afterPath="$PROJECT_DIR$/target/classes/ru/pavlov/springcourse/TestSpring.class" afterDir="false" />
     </list>
     <list id="24cf0369-e843-492c-a47b-cf68458a944a" name="Revert &quot;lesson 8 start&quot;-2" comment="Revert &quot;lesson 8 start&quot;&#10;&#10;This reverts commit eca00f7c" />
     <option name="SHOW_DIALOG" value="false" />
