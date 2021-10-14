@@ -4,7 +4,11 @@
     <option name="autoReloadType" value="ALL" />
   </component>
   <component name="ChangeListManager">
-    <list default="true" id="ef3175e9-54d6-4aea-bf7b-d102d68a9003" name="Default Changelist" comment="lesson12_@PostConstruct_@PreDestroy_endLesson" />
+    <list default="true" id="ef3175e9-54d6-4aea-bf7b-d102d68a9003" name="Default Changelist" comment="lesson13_beginLesson">
+      <change afterPath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/SpringConfig.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/TestSpring.java" beforeDir="false" afterPath="$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/TestSpring.java" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/main/resourses/applicationContext.xml" beforeDir="false" />
+    </list>
     <list id="24cf0369-e843-492c-a47b-cf68458a944a" name="Revert &quot;lesson 8 start&quot;-2" comment="Revert &quot;lesson 8 start&quot;&#10;&#10;This reverts commit eca00f7c" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -320,7 +324,14 @@
       <option name="project" value="LOCAL" />
       <updated>1634239771400</updated>
     </task>
-    <option name="localTasksCounter" value="13" />
+    <task id="LOCAL-00013" summary="lesson13_beginLesson">
+      <created>1634240730196</created>
+      <option name="number" value="00013" />
+      <option name="presentableId" value="LOCAL-00013" />
+      <option name="project" value="LOCAL" />
+      <updated>1634240730196</updated>
+    </task>
+    <option name="localTasksCounter" value="14" />
     <servers />
   </component>
   <component name="ToolWindowManager">
@@ -457,18 +468,8 @@
     <MESSAGE value="lesson10_begin" />
     <MESSAGE value="lesson12_@Value" />
     <MESSAGE value="lesson12_@PostConstruct_@PreDestroy_endLesson" />
-    <option name="LAST_COMMIT_MESSAGE" value="lesson12_@PostConstruct_@PreDestroy_endLesson" />
-  </component>
-  <component name="XDebuggerManager">
-    <breakpoint-manager>
-      <breakpoints>
-        <line-breakpoint enabled="true" type="java-line">
-          <url>file://$PROJECT_DIR$/src/main/java/ru/pavlov/springcourse/TestSpring.java</url>
-          <line>6</line>
-          <option name="timeStamp" value="2" />
-        </line-breakpoint>
-      </breakpoints>
-    </breakpoint-manager>
+    <MESSAGE value="lesson13_beginLesson" />
+    <option name="LAST_COMMIT_MESSAGE" value="lesson13_beginLesson" />
   </component>
   <component name="XSLT-Support.FileAssociations.UIState">
     <expand />
