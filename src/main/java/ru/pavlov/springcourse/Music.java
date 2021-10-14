@@ -1,5 +1,7 @@
 package ru.pavlov.springcourse;
 
+import java.util.ArrayList;
+
 public interface Music {
-    String getSong();
+    ArrayList<String> getSong();
 }
